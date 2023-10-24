@@ -1,7 +1,7 @@
 # Bankist
 ### A simple Banking website to perform JS and DOM operations. 💹
 ## 📌About:
-### It is a Virtual banking website in order to practice DOM manipulation and user interaction.
+### It is a Virtual banking website in order to perform DOM manipulation and user interaction.
 
 ## 📌Implementation:
 1. Selecting, Creating and Deleting elements using DOM operations.
